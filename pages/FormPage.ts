@@ -1,4 +1,4 @@
-// pages/LoginPage.ts
+// pages/FormPage.ts
 import { type Page, type Locator } from '@playwright/test';
 
 export class FormPage {
